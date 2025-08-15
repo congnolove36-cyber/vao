@@ -1,4 +1,4 @@
-# QUẢN LÝ QUÁN COFFE
+# QUẢN LÝ QUÁN COFFEE HOUSE LAK
 ## 👨‍💻 Nhóm 5 - Danh sách thành viên
 | STT | Họ tên                | MSSV       | Vai trò    |
 |-----|-----------------------|------------|------------|
